@@ -21,7 +21,7 @@
     "react-datepicker": "^4.16.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
-    "react-router-dom": "^6.12.1",
+    "react-router-dom": "^6.26.1",
     "react-scripts": "5.0.1",
     "react-spring": "^9.7.2",
     "react-time-picker": "^6.3.0",
